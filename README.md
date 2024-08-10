@@ -1,2 +1,2 @@
 Data Collection with Space X API
-Data ciollection with Web scrapping into Wikipedia site
+Data collection with Web scrapping into Wikipedia site
