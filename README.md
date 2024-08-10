@@ -1,4 +1,5 @@
-Data Collection with Space X API
+Hi!
 
-SpaceX_Machine Learning Prediction_Part_5.ipynb
+This is the list of Python script for the assignment
 
+You will easily recognize the contexnts of each throgh the title
